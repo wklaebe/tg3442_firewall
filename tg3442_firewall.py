@@ -35,7 +35,7 @@
 
 import binascii
 from bs4 import BeautifulSoup
-from Crypto.Cipher import AES
+from Cryptodome.Cipher import AES
 import hashlib
 import json
 import re
